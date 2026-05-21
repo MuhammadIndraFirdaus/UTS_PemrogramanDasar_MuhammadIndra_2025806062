@@ -1,0 +1,12 @@
+=== LAPORAN ANALISIS TEKS ===
+Jumlah baris : 3
+Jumlah kata  : 19
+Huruf vokal  : 40
+Huruf konsonan: 83
+
+=== 5 KATA TERBANYAK ===
+python          #####  (5)
+echo            #  (1)
+adalah          #  (1)
+bahasa          #  (1)
+pemrograman     #  (1)

@@ -1,0 +1,3 @@
+echo "python adalah bahasa pemrograman. belajar python itu menyenangkan. program python mudah." > input.txt
+cd Python/soal3_text_analyzer
+python main.py
